@@ -6,4 +6,4 @@
 
 🚀 I Build personal project to:
   1. Learn new technologies, languages, architecture patterns, authentication and security systems etc.
-  2. Build tools and platforms as per my requirements that help me in efficiently developing projects, components, designing SVGs, Animations, rather than relying on multiple third-party tools.
+  1. Build tools and platforms as per my requirements that help me in efficiently developing projects, components, designing SVGs, Animations, rather than relying on multiple third-party tools.
